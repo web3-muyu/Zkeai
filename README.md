@@ -7,6 +7,12 @@
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.lemox.club/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://space.bilibili.com/430828794/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/ning-feng-34"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+</div>	
 <br>
 <h2 align="left">大家好👋，我是Zkeai</h2>
 <p>✍️&nbsp;&nbsp;一个热衷于前端开发的奋斗小伙。</p>
@@ -14,13 +20,8 @@
 <p>&emsp;&emsp;毕业因希望提升前端技术栈，选择了一份远程办公的工作，空闲时间自学react及vue两个框架,从此走上漫漫长路...</p>
 <br>
 
-<h2 align="left">🍭 我的社交:</h2>
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://blog.lemox.club/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <a href="https://space.bilibili.com/430828794/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/ning-feng-34"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-</div>	
+
+
 
 <div align="center" ><img src="https://count.getloli.com/get/@:Zkeai" alt="Zkeai" /></div>
 
