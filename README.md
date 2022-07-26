@@ -5,7 +5,7 @@
 	</a>
 </h1>
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" height="500" src="https://cdn.lemox.club/code.gif"/></div>
+<div align="center" ><img src="https://cdn.lemox.club/code.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
