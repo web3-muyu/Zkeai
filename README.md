@@ -14,6 +14,7 @@
 <p>&emsp;&emsp;毕业因希望提升前端技术栈，选择了一份远程办公的工作，空闲时间自学react及vue两个框架,从此走上漫漫长路...</p>
 <br>
 
+<h2 align="left">🍭 我的社交:</h2>
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.lemox.club/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
