@@ -9,7 +9,10 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 <h1 align="center">大家好👋，我是Zkeai</h1>
-<h3 align="center">一个热衷于前端开发的奋斗小伙。大学期间由于兴趣使然,自学前端基础三件套;因希望提升前端技术栈，选择了一份远程办公的工作，空闲时间自学react及vue两个框架,从此走上漫漫长路...</h3>
+<p>✍️&nbsp;&nbsp;一个热衷于前端开发的奋斗小伙。</p>
+<p>&emsp;&emsp;大学期间由于兴趣使然,自学前端基础三件套;</p>
+<p>&emsp;&emsp;毕业因希望提升前端技术栈，选择了一份远程办公的工作，空闲时间自学react及vue两个框架,从此走上漫漫长路...</p>
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
