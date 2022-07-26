@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
 	<a href="https://blog.lemox.club/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=又是充满希望的一天!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Zkeai:又是充满希望的一天!&center=true&size=25">
 	</a>
 </h1>
 <!-- 敲代码的图片 -->
