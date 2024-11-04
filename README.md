@@ -17,9 +17,8 @@
 </div>	
 <br>
 <h2 align="left">👋大家好，我是Zkeai</h2>
-<p>✍️&nbsp;&nbsp;一个热衷于前端开发的奋斗小伙。</p>
-<p>&emsp;&emsp;大学期间由于兴趣使然,自学前端基础三件套;</p>
-<p>&emsp;&emsp;毕业因希望提升前端技术栈，选择了一份远程办公的工作，空闲时间自学react及vue两个框架,从此走上漫漫长路...</p>
+<p>✍️&nbsp;&nbsp;全栈之路,</p>
+<p>&emsp;&emsp;漫漫长路.</p>
 <br>
 
 <h2 align="left">🤞 基本掌握</h2>
