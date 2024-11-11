@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=EAB9B2&vCenter=true&multiline=true&random=true&width=435&lines=My+Web3+Blog)](https://git.io/typing-svg)[![Channel 🥰](https://img.shields.io/badge/GEMUPS_🥰-EAB9B2?style=for-the-badge&logo=2K&logoColor=white)](https://muyuai.top/)
 <!--
-**MsLolita/mslolita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zkeai/zkeai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
